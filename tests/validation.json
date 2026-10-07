@@ -1,0 +1,714 @@
+{
+  "checkedAt": "2026-10-07T06:51:52.593Z",
+  "method": "Native browser interactions and read-only DOM observations, plus exported PNG pixel statistics",
+  "results": [
+    {
+      "test": "slider-minima",
+      "result": {
+        "glError": "0",
+        "values": [
+          {
+            "id": "radius",
+            "min": "48",
+            "value": "48"
+          },
+          {
+            "id": "zoom",
+            "min": "1",
+            "value": "1"
+          },
+          {
+            "id": "refraction",
+            "min": "0",
+            "value": "0"
+          },
+          {
+            "id": "thickness",
+            "min": "0.05",
+            "value": "0.05"
+          },
+          {
+            "id": "dispersion",
+            "min": "0",
+            "value": "0"
+          },
+          {
+            "id": "blur",
+            "min": "0",
+            "value": "0"
+          },
+          {
+            "id": "light",
+            "min": "0",
+            "value": "0"
+          },
+          {
+            "id": "response",
+            "min": "0",
+            "value": "0"
+          }
+        ]
+      }
+    },
+    {
+      "test": "pointer-follow-reduced",
+      "aim": [
+        151.79999999999998,
+        148.72000000000003
+      ],
+      "result": {
+        "centerX": "152.00",
+        "centerY": "148.32",
+        "frames": "34",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "true",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-reduced",
+      "aim": [
+        860.1999999999999,
+        148.72000000000003
+      ],
+      "result": {
+        "centerX": "860.00",
+        "centerY": "148.32",
+        "frames": "60",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "true",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-reduced",
+      "aim": [
+        860.1999999999999,
+        507
+      ],
+      "result": {
+        "centerX": "860.00",
+        "centerY": "507.32",
+        "frames": "86",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "true",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-reduced",
+      "aim": [
+        151.79999999999998,
+        507
+      ],
+      "result": {
+        "centerX": "152.00",
+        "centerY": "507.32",
+        "frames": "116",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "true",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-reduced",
+      "aim": [
+        506,
+        338
+      ],
+      "result": {
+        "centerX": "506.00",
+        "centerY": "338.32",
+        "frames": "141",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "true",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-default",
+      "aim": [
+        121.44,
+        148.72000000000003
+      ],
+      "result": {
+        "centerX": "121.00",
+        "centerY": "148.32",
+        "frames": "172",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "false",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-default",
+      "aim": [
+        890.5600000000001,
+        148.72000000000003
+      ],
+      "result": {
+        "centerX": "891.00",
+        "centerY": "148.32",
+        "frames": "194",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "false",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-default",
+      "aim": [
+        890.5600000000001,
+        513.76
+      ],
+      "result": {
+        "centerX": "891.00",
+        "centerY": "513.32",
+        "frames": "224",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "false",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-default",
+      "aim": [
+        121.44,
+        513.76
+      ],
+      "result": {
+        "centerX": "121.00",
+        "centerY": "513.32",
+        "frames": "255",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "false",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "pointer-follow-default",
+      "aim": [
+        526.24,
+        310.96000000000004
+      ],
+      "result": {
+        "centerX": "526.00",
+        "centerY": "311.32",
+        "frames": "286",
+        "glError": "0",
+        "ready": "true",
+        "reduced": "false",
+        "refraction": "0.480",
+        "renderer": "webgl",
+        "zoom": "1.650"
+      }
+    },
+    {
+      "test": "responsive",
+      "result": {
+        "canvas": {
+          "bottom": 788.796875,
+          "height": 574,
+          "left": 12,
+          "right": 308,
+          "top": 214.796875,
+          "width": 296,
+          "x": 12,
+          "y": 214.796875
+        },
+        "controls": {
+          "bottom": 1697.890625,
+          "height": 783.09375,
+          "left": 12,
+          "right": 308,
+          "top": 914.796875,
+          "width": 296,
+          "x": 12,
+          "y": 914.796875
+        },
+        "glError": "0",
+        "headingCount": 1,
+        "height": 844,
+        "overflow": 0,
+        "width": 320
+      }
+    },
+    {
+      "test": "responsive",
+      "result": {
+        "canvas": {
+          "bottom": 788.796875,
+          "height": 574,
+          "left": 16,
+          "right": 359,
+          "top": 214.796875,
+          "width": 343,
+          "x": 16,
+          "y": 214.796875
+        },
+        "controls": {
+          "bottom": 1659.890625,
+          "height": 791.09375,
+          "left": 16,
+          "right": 359,
+          "top": 868.796875,
+          "width": 343,
+          "x": 16,
+          "y": 868.796875
+        },
+        "glError": "0",
+        "headingCount": 1,
+        "height": 844,
+        "overflow": 0,
+        "width": 375
+      }
+    },
+    {
+      "test": "responsive",
+      "result": {
+        "canvas": {
+          "bottom": 788.796875,
+          "height": 574,
+          "left": 16,
+          "right": 374,
+          "top": 214.796875,
+          "width": 358,
+          "x": 16,
+          "y": 214.796875
+        },
+        "controls": {
+          "bottom": 1659.890625,
+          "height": 791.09375,
+          "left": 16,
+          "right": 374,
+          "top": 868.796875,
+          "width": 358,
+          "x": 16,
+          "y": 868.796875
+        },
+        "glError": "0",
+        "headingCount": 1,
+        "height": 844,
+        "overflow": 0,
+        "width": 390
+      }
+    },
+    {
+      "test": "responsive",
+      "result": {
+        "canvas": {
+          "bottom": 788.796875,
+          "height": 574,
+          "left": 16,
+          "right": 398,
+          "top": 214.796875,
+          "width": 382,
+          "x": 16,
+          "y": 214.796875
+        },
+        "controls": {
+          "bottom": 1659.890625,
+          "height": 791.09375,
+          "left": 16,
+          "right": 398,
+          "top": 868.796875,
+          "width": 382,
+          "x": 16,
+          "y": 868.796875
+        },
+        "glError": "0",
+        "headingCount": 1,
+        "height": 844,
+        "overflow": 0,
+        "width": 414
+      }
+    },
+    {
+      "test": "responsive",
+      "result": {
+        "canvas": {
+          "bottom": 910.59375,
+          "height": 676,
+          "left": 24,
+          "right": 434,
+          "top": 234.59375,
+          "width": 410,
+          "x": 24,
+          "y": 234.59375
+        },
+        "controls": {
+          "bottom": 864.09375,
+          "height": 750.09375,
+          "left": 458,
+          "right": 744,
+          "top": 114,
+          "width": 286,
+          "x": 458,
+          "y": 114
+        },
+        "glError": "0",
+        "headingCount": 1,
+        "height": 1000,
+        "overflow": 0,
+        "width": 768
+      }
+    },
+    {
+      "test": "responsive",
+      "result": {
+        "canvas": {
+          "bottom": 899.6796875,
+          "height": 676,
+          "left": 40,
+          "right": 1052,
+          "top": 223.6796875,
+          "width": 1012,
+          "x": 40,
+          "y": 223.6796875
+        },
+        "controls": {
+          "bottom": 880.09375,
+          "height": 758.09375,
+          "left": 1088,
+          "right": 1400,
+          "top": 122,
+          "width": 312,
+          "x": 1088,
+          "y": 122
+        },
+        "glError": "0",
+        "headingCount": 1,
+        "height": 1000,
+        "overflow": 0,
+        "width": 1440
+      }
+    },
+    {
+      "test": "photo-import",
+      "result": {
+        "photoMode": true,
+        "renderer": {
+          "centerX": "196.90",
+          "centerY": "264.04",
+          "frames": "6",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "false",
+          "refraction": "0.480",
+          "renderer": "webgl",
+          "zoom": "1.650"
+        },
+        "scene": "04 / 你的图片"
+      }
+    },
+    {
+      "test": "photo-export",
+      "result": {
+        "path": "<local-downloads>/liquid-glass.png",
+        "size": [
+          358,
+          574
+        ],
+        "nonblank": true
+      }
+    },
+    {
+      "test": "original-compare",
+      "result": {
+        "canvas": {
+          "centerX": "196.90",
+          "centerY": "264.04",
+          "compared": "true",
+          "frames": "10",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "false",
+          "refraction": "0.480",
+          "renderer": "webgl",
+          "zoom": "1.650"
+        },
+        "compared": "true"
+      }
+    },
+    {
+      "test": "keyboard",
+      "result": {
+        "canvas": {
+          "centerX": "214.90",
+          "centerY": "264.04",
+          "compared": "false",
+          "frames": "25",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "false",
+          "refraction": "0.480",
+          "renderer": "webgl",
+          "zoom": "1.650"
+        },
+        "radius": "96"
+      }
+    },
+    {
+      "test": "single-html",
+      "result": {
+        "externalScripts": [],
+        "externalStyles": [],
+        "overflow": 0,
+        "renderer": {
+          "centerX": "556.60",
+          "centerY": "310.96",
+          "frames": "5",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "false",
+          "refraction": "0.480",
+          "renderer": "webgl",
+          "zoom": "1.650"
+        }
+      }
+    },
+    {
+      "test": "desktop-active-render-rate",
+      "result": {
+        "seconds": 82.34,
+        "frames": 4941,
+        "fps": 60.00728685936361,
+        "scope": "Actual desktop browser; not a mobile GPU benchmark"
+      }
+    },
+    {
+      "test": "static-fallback",
+      "result": {
+        "background": true,
+        "message": "浏览器暂不支持实时折射仍可查看画面。请在支持 WebGL 的浏览器里打开。",
+        "renderer": "static",
+        "visible": true
+      }
+    },
+    {
+      "test": "preset",
+      "name": "clear",
+      "result": {
+        "parameters": [
+          {
+            "id": "radius",
+            "value": "112"
+          },
+          {
+            "id": "zoom",
+            "value": "1.35"
+          },
+          {
+            "id": "refraction",
+            "value": "0.16"
+          },
+          {
+            "id": "thickness",
+            "value": "0.16"
+          },
+          {
+            "id": "dispersion",
+            "value": "0.02"
+          },
+          {
+            "id": "blur",
+            "value": "0"
+          },
+          {
+            "id": "light",
+            "value": "0.42"
+          },
+          {
+            "id": "response",
+            "value": "88"
+          }
+        ],
+        "renderer": {
+          "centerX": "556.60",
+          "centerY": "310.96",
+          "frames": "7",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "true",
+          "refraction": "0.160",
+          "renderer": "webgl",
+          "zoom": "1.350"
+        }
+      }
+    },
+    {
+      "test": "preset",
+      "name": "liquid",
+      "result": {
+        "parameters": [
+          {
+            "id": "radius",
+            "value": "112"
+          },
+          {
+            "id": "zoom",
+            "value": "1.65"
+          },
+          {
+            "id": "refraction",
+            "value": "0.48"
+          },
+          {
+            "id": "thickness",
+            "value": "0.32"
+          },
+          {
+            "id": "dispersion",
+            "value": "0.14"
+          },
+          {
+            "id": "blur",
+            "value": "0.08"
+          },
+          {
+            "id": "light",
+            "value": "0.65"
+          },
+          {
+            "id": "response",
+            "value": "88"
+          }
+        ],
+        "renderer": {
+          "centerX": "556.60",
+          "centerY": "310.96",
+          "frames": "8",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "true",
+          "refraction": "0.480",
+          "renderer": "webgl",
+          "zoom": "1.650"
+        }
+      }
+    },
+    {
+      "test": "preset",
+      "name": "bold",
+      "result": {
+        "parameters": [
+          {
+            "id": "radius",
+            "value": "112"
+          },
+          {
+            "id": "zoom",
+            "value": "2.1"
+          },
+          {
+            "id": "refraction",
+            "value": "0.88"
+          },
+          {
+            "id": "thickness",
+            "value": "0.5"
+          },
+          {
+            "id": "dispersion",
+            "value": "0.4"
+          },
+          {
+            "id": "blur",
+            "value": "0.05"
+          },
+          {
+            "id": "light",
+            "value": "0.82"
+          },
+          {
+            "id": "response",
+            "value": "88"
+          }
+        ],
+        "renderer": {
+          "centerX": "556.60",
+          "centerY": "310.96",
+          "frames": "9",
+          "glError": "0",
+          "ready": "true",
+          "reduced": "true",
+          "refraction": "0.880",
+          "renderer": "webgl",
+          "zoom": "2.100"
+        }
+      }
+    },
+    {
+      "test": "panel-toggle",
+      "result": {
+        "expanded": "false",
+        "hidden": true,
+        "overflow": 0
+      }
+    },
+    {
+      "test": "idle-render-suspension",
+      "result": {
+        "before": "5",
+        "after": "5",
+        "passed": true
+      }
+    },
+    {
+      "test": "slider-maxima",
+      "result": {
+        "values": {
+          "radius": 200,
+          "zoom": 3,
+          "refraction": 1,
+          "thickness": 0.65,
+          "dispersion": 1,
+          "blur": 1,
+          "light": 1,
+          "response": 100
+        },
+        "glError": "0",
+        "source": "Recorded in the upper-bound interaction check"
+      }
+    }
+  ],
+  "notTested": [
+    "Real iPhone Safari",
+    "Real multi-touch pinch",
+    "WebGL context-loss injection",
+    "System reduced-motion media emulation",
+    "Lighthouse"
+  ],
+  "officialComparison": {
+    "visual": "Apple Newsroom Liquid Glass video examples",
+    "text": "Apple WWDC25 Meet Liquid Glass transcript",
+    "limitation": "WWDC playback stalled after seeking; no claim of complete viewing"
+  }
+}
